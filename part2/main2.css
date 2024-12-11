@@ -1,0 +1,150 @@
+body{
+
+    background-color: purple;
+    
+    }
+    
+    
+    .main1{
+    
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+    }
+    
+    .main2{
+    
+    
+    border: 2px solid white;
+    margin-top: 20px;
+    width:400px;
+    height:600px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 20px 20px 30px rgb(0, 0, 0);
+    }
+    
+
+    .head{
+
+
+        font-size:30px;
+        color:purple;
+        font-weight: bold;
+        font-family: arial;
+        margin-top: 20px;
+        margin-left: 100px;
+    
+    }
+    .login{
+    
+    font-size:30px;
+    color:purple;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 50px;
+    margin-left: 160px;
+    margin-bottom: 0px;
+
+    }
+    
+    .name{
+    
+    font-family: arial;
+    font-size:25px;
+    font-weight:bold;
+    margin-top:10px;
+    margin-left: 30px;
+    
+    
+    }
+
+    .name2{
+        font-family: arial;
+        font-size:25px;
+        font-weight:bold;
+        margin-top:40px;
+        margin-left: 30px;
+    
+
+
+    }
+    
+    .search{
+    
+    width:350px;
+    height:50px;
+    border-style: solid;
+    padding-left: 5px; 
+    font-size: 18px;
+    border-width: 3px;
+    margin-left: 30px;
+    margin-top:10px;
+    font-family: arial;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    font-weight: bold;
+    
+    
+    
+    }
+    
+    .signup2{
+    
+        font-size:30px;
+        color:rgb(255, 255, 255);
+        font-weight: bold;
+        font-family: arial;
+        margin-left: 100px;
+        margin-top: 50px;
+        border: 2px solid rgb(0, 0, 0);
+        width: 120px;
+        background-color: purple;
+        padding-left: 60px;
+        padding-right: 35px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 50px;
+        cursor: pointer;
+        box-shadow: 10px 10px 20px rgb(0, 0, 0);
+    
+    
+        
+    
+    }
+    
+    .signup2:hover{
+    
+    opacity: 0.8;
+    transition: 0.3s;
+    
+    
+    }
+    
+    .signup2:active{
+    
+        opacity: 0.6;
+        transition: 0.3s;
+        rotate: 360deg;
+        pointer-events: none;
+
+        
+        
+        }
+    
+        .last{
+    
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 80px;
+    color: purple;
+    
+        }
